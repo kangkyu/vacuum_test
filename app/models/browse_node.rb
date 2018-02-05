@@ -1,0 +1,2 @@
+class BrowseNode < ApplicationRecord
+end
